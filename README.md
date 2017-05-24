@@ -455,10 +455,10 @@ styles.xml
 
 ### 演示
 
-![ActionSheetListView.png](http://upload-images.jianshu.io/upload_images/2587638-08c0947ddeda1f06.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![ActionSheetListView.png](capture/device-2017-05-24-224130.png)
 
 
-![ActionSheetView.png](http://upload-images.jianshu.io/upload_images/2587638-776940524ea90c08.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![ActionSheetView.png](capture/device-2017-05-24-224151.png)
 
 
 GitHub源码：[zyao89/ZActionSheetView](https://github.com/zyao89/ZActionSheetView)
